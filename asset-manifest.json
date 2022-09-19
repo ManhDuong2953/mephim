@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/mephim/static/css/main.f198169b.css",
+    "main.js": "/mephim/static/js/main.94ca7bb6.js",
+    "static/media/music.mp3": "/mephim/static/media/music.df417660a6ce7062c53a.mp3",
+    "static/media/logo.png": "/mephim/static/media/logo.5d753d004c99f3ab0d07.png",
+    "static/media/slick.svg": "/mephim/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/mephim/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/mephim/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/mephim/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/mephim/index.html",
+    "main.f198169b.css.map": "/mephim/static/css/main.f198169b.css.map",
+    "main.94ca7bb6.js.map": "/mephim/static/js/main.94ca7bb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f198169b.css",
+    "static/js/main.94ca7bb6.js"
+  ]
+}

@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/mephim/static/css/main.f198169b.css",
-    "main.js": "/mephim/static/js/main.94ca7bb6.js",
+    "main.css": "/mephim/static/css/main.7d8c49fd.css",
+    "main.js": "/mephim/static/js/main.e7756199.js",
+    "static/media/videointro2_compressed.mp4": "/mephim/static/media/videointro2_compressed.51e17e6850bce4d60f06.mp4",
     "static/media/music.mp3": "/mephim/static/media/music.df417660a6ce7062c53a.mp3",
     "static/media/logo.png": "/mephim/static/media/logo.5d753d004c99f3ab0d07.png",
     "static/media/slick.svg": "/mephim/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -9,11 +10,11 @@
     "static/media/slick.ttf": "/mephim/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/mephim/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/mephim/index.html",
-    "main.f198169b.css.map": "/mephim/static/css/main.f198169b.css.map",
-    "main.94ca7bb6.js.map": "/mephim/static/js/main.94ca7bb6.js.map"
+    "main.7d8c49fd.css.map": "/mephim/static/css/main.7d8c49fd.css.map",
+    "main.e7756199.js.map": "/mephim/static/js/main.e7756199.js.map"
   },
   "entrypoints": [
-    "static/css/main.f198169b.css",
-    "static/js/main.94ca7bb6.js"
+    "static/css/main.7d8c49fd.css",
+    "static/js/main.e7756199.js"
   ]
 }

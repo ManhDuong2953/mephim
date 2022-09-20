@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mephim/static/css/main.36ba3a50.css",
-    "main.js": "/mephim/static/js/main.e7756199.js",
+    "main.css": "/mephim/static/css/main.fbd5cd08.css",
+    "main.js": "/mephim/static/js/main.ff52c904.js",
     "static/media/videointro2_compressed.mp4": "/mephim/static/media/videointro2_compressed.51e17e6850bce4d60f06.mp4",
     "static/media/music.mp3": "/mephim/static/media/music.df417660a6ce7062c53a.mp3",
     "static/media/logo.png": "/mephim/static/media/logo.5d753d004c99f3ab0d07.png",
@@ -10,11 +10,11 @@
     "static/media/slick.ttf": "/mephim/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/mephim/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/mephim/index.html",
-    "main.36ba3a50.css.map": "/mephim/static/css/main.36ba3a50.css.map",
-    "main.e7756199.js.map": "/mephim/static/js/main.e7756199.js.map"
+    "main.fbd5cd08.css.map": "/mephim/static/css/main.fbd5cd08.css.map",
+    "main.ff52c904.js.map": "/mephim/static/js/main.ff52c904.js.map"
   },
   "entrypoints": [
-    "static/css/main.36ba3a50.css",
-    "static/js/main.e7756199.js"
+    "static/css/main.fbd5cd08.css",
+    "static/js/main.ff52c904.js"
   ]
 }
